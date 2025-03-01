@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bishal Budha</h1>
 <h3 align="center">An aspiring data analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bbudha77&label=Profile%20views&color=0e75b6&style=flat" alt="bbudha77" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bbudha77" alt="bbudha77" /></a> </p>
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
