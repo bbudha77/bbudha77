@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href=![image](https://github.com/user-attachments/assets/c635f236-c32b-4d1b-a2a1-d8c859b1cc8d)
+<p align="left"> <a href="https://cdn.dribbble.com/users/489311/screenshots/6691380/excel-icons-animation.gif"
 "height="40"/>
 </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
