@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
  <h1 align="center">Hi 👋, I'm Bishal Budha</h1>
-<h3 align="center">An aspiring data analyst</h3>
+<h3 align="center">An aspiring data analyst looking for entry-level job</h3>
 
 (img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:900/0*TMvhLMMOy0NHzNIy.gif")
 
