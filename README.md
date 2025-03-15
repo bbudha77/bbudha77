@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+
+
  <h1 align="center">Hi 👋, I'm Bishal Budha</h1>
 <h3 align="center">An aspiring data analyst looking for entry-level job</h3>
 
