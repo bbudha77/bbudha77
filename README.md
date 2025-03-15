@@ -2,7 +2,7 @@
  <h1 align="center">Hi 👋, I'm Bishal Budha</h1>
 <h3 align="center">An aspiring data analyst looking for entry-level job</h3>
 
-(img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:900/0*TMvhLMMOy0NHzNIy.gif")
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:900/0*TMvhLMMOy0NHzNIy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bbudha77&label=Profile%20views&color=0e75b6&style=flat" alt="bbudha77" /> </p>
 
